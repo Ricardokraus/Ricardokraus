@@ -4,6 +4,7 @@
 <blockquote>
 <i>“Curioso de naturaleza, siempre con ganas de ver cómo funciona el mundo.<br />Todavía no sé qué parte de la informática me apasiona más, así que sigo aprendiendo para encontrarla.”</i>
 </blockquote>
+<br />
 <a href="https://www.linkedin.com/in/ricardo-kraus/"><img src="linkedin.svg" alt="LinkedIn" height="37" /></a>
 <a href="https://github.com/Ricardokraus"><img src="github.svg" alt="GitHub" height="37" /></a>
 </div>
