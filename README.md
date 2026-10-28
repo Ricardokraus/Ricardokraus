@@ -2,7 +2,7 @@
 <img src="banner.svg" alt="Banner" width="100%" />
 <br /><br />
 <blockquote>
-<i>“Me mueve entender cómo funcionan las cosas por debajo.<br />Todavía estoy descubriendo qué es lo que más me apasiona de la informática, y sigo aprendiendo para encontrar mi camino.”</i>
+<i>“Curioso de naturaleza, siempre con ganas de ver cómo funciona el mundo.<br />Todavía no sé qué parte de la informática me apasiona más, así que sigo aprendiendo para encontrarla.”</i>
 </blockquote>
 <a href="https://www.linkedin.com/in/ricardo-kraus/"><img src="linkedin.svg" alt="LinkedIn" height="37" /></a>
 <a href="https://github.com/Ricardokraus"><img src="github.svg" alt="GitHub" height="37" /></a>
