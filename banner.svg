@@ -1,47 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" fill="none">
   <style>
     .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
-    .sans { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
     .cursor { animation: blink 1.1s steps(1) infinite; }
     .fade   { animation: fade 1.2s ease-out both; }
     .fade2  { animation: fade 1.2s ease-out .3s both; }
     .fade3  { animation: fade 1.2s ease-out .6s both; }
-    .scan   { animation: scan 6s linear infinite; }
-    @keyframes blink { 0%,50% { opacity: 1 } 50.01%,100% { opacity: 0 } }
-    @keyframes fade  { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: translateY(0) } }
-    @keyframes scan  { from { transform: translateX(-1000px) } to { transform: translateX(1000px) } }
+    @keyframes blink { 0%, 50% { fill: #3fb950; } 50.01%, 100% { fill: transparent; } }
+    @keyframes fade  { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @media (prefers-reduced-motion: reduce) { .cursor, .fade, .fade2, .fade3 { animation: none; } }
   </style>
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" stroke="#E9E4D6" stroke-opacity="0.05"/>
+      <path d="M40 0H0V40" stroke="#30363d" stroke-opacity="0.45"/>
     </pattern>
-    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#E9E4D6" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#E9E4D6" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#E9E4D6" stop-opacity="0"/>
-    </linearGradient>
+    <clipPath id="card">
+      <rect width="1000" height="260" rx="14"/>
+    </clipPath>
   </defs>
 
-  <rect width="1000" height="260" rx="14" fill="#1A1A1A"/>
+  <rect width="1000" height="260" rx="14" fill="#161b22"/>
   <rect width="1000" height="260" rx="14" fill="url(#grid)"/>
-  <rect x="0.5" y="0.5" width="999" height="259" rx="13.5" stroke="#E9E4D6" stroke-opacity="0.12"/>
+  <rect x="0.5" y="0.5" width="999" height="259" rx="13.5" stroke="#30363d"/>
 
   <!-- window dots -->
-  <circle cx="34" cy="32" r="5" fill="#E9E4D6" fill-opacity="0.25"/>
-  <circle cx="54" cy="32" r="5" fill="#E9E4D6" fill-opacity="0.25"/>
-  <circle cx="74" cy="32" r="5" fill="#E9E4D6" fill-opacity="0.25"/>
-  <text x="966" y="36" text-anchor="end" class="mono" font-size="13" fill="#E9E4D6" fill-opacity="0.45">~/ricardokraus</text>
+  <circle cx="34" cy="32" r="5.5" fill="#f85149"/>
+  <circle cx="55" cy="32" r="5.5" fill="#d29922"/>
+  <circle cx="76" cy="32" r="5.5" fill="#3fb950"/>
+  <text x="966" y="36" text-anchor="end" class="mono" font-size="13" fill="#8b949e">~/ricardokraus</text>
 
   <!-- content -->
-  <text x="60" y="110" class="mono fade" font-size="16" fill="#E9E4D6" fill-opacity="0.5">$ whoami</text>
-  <text x="60" y="165" class="sans fade2" font-size="58" font-weight="700" fill="#E9E4D6" letter-spacing="-1">Ricardo Kraus</text>
-  <rect x="508" y="126" width="6" height="46" fill="#E9E4D6" class="cursor"/>
+  <text x="60" y="110" class="mono fade" font-size="16" fill="#8b949e"><tspan fill="#3fb950">$</tspan> whoami</text>
+  <text x="60" y="165" class="sans fade2" font-size="58" font-weight="700" fill="#E9E4D6" letter-spacing="-1">Ricardo Kraus<tspan class="cursor" dx="8" font-weight="300" fill="#3fb950">|</tspan></text>
 
-  <text x="60" y="205" class="mono fade3" font-size="17" fill="#E9E4D6" fill-opacity="0.85" letter-spacing="3">SOFTWARE  ·  FULL STACK  ·  AI</text>
-  <text x="60" y="231" class="mono fade3" font-size="13" fill="#E9E4D6" fill-opacity="0.45">Ingeniería Informática @ ULL  —  Tenerife, Canarias</text>
+  <text x="60" y="205" class="mono fade3" font-size="17" letter-spacing="3"><tspan fill="#58a6ff">SOFTWARE</tspan><tspan fill="#8b949e" dx="14">·</tspan><tspan fill="#3fb950" dx="14">FULL STACK</tspan><tspan fill="#8b949e" dx="14">·</tspan><tspan fill="#bc8cff" dx="14">AI</tspan></text>
+  <text x="60" y="231" class="mono fade3" font-size="13" fill="#8b949e">Ingeniería Informática @ ULL  —  Tenerife, Canarias</text>
 
-  <!-- scan beam -->
-  <g clip-path="inset(0 round 14px)">
-    <rect class="scan" x="0" y="0" width="160" height="260" fill="url(#beam)"/>
+  <!-- color strip, like GitHub's language bar -->
+  <g clip-path="url(#card)">
+    <rect x="0" y="256" width="320" height="4" fill="#58a6ff"/>
+    <rect x="320" y="256" width="240" height="4" fill="#3fb950"/>
+    <rect x="560" y="256" width="160" height="4" fill="#d29922"/>
+    <rect x="720" y="256" width="140" height="4" fill="#f85149"/>
+    <rect x="860" y="256" width="140" height="4" fill="#bc8cff"/>
   </g>
 </svg>
