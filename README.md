@@ -2,7 +2,9 @@
 
 ![Banner](banner.svg)
 
-**SOFTWARE · FULL STACK · AI** — Desarrollador full stack con preferencia por el frontend y estudiante de Ingeniería Informática. Me mueve entender cómo funcionan las cosas por debajo y apoyarme en la IA para construirlas mejor.
+**SOFTWARE · FULL STACK · AI**
+<br />
+Desarrollador full stack con preferencia por el frontend y estudiante de Ingeniería Informática. Me mueve entender cómo funcionan las cosas por debajo y apoyarme en la IA para construirlas mejor.
 
 <a href="https://www.linkedin.com/in/ricardo-kraus/"><img src="https://img.shields.io/badge/linkedin-ricardo--kraus-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=E9E4D6" alt="LinkedIn" /></a>
 <a href="https://github.com/Ricardokraus"><img src="https://img.shields.io/badge/github-Ricardokraus-1A1A1A?style=for-the-badge&logo=github&logoColor=E9E4D6" alt="GitHub" /></a>
@@ -30,7 +32,9 @@
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,java,kotlin,python,php,postgres,androidstudio,git,linux&theme=dark&perline=6" alt="Stack" />
 
-<br /><br />
+<br />
+
+**Otros**
 
 <img src="https://img.shields.io/badge/SQL_Server-1A1A1A?style=flat-square&logo=microsoftsqlserver&logoColor=E9E4D6" />
 <img src="https://img.shields.io/badge/AutoHotkey-1A1A1A?style=flat-square&logo=autohotkey&logoColor=E9E4D6" />
@@ -52,50 +56,6 @@
 
 <br />
 
-## `> proyectos`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌊 Dummy Rescue</h3>
-      Ocean Hackathon® 2026 (1.er premio en Tenerife). Predicción en tiempo real de la deriva de una persona en el mar con datos de sensores, para reducir el área de búsqueda en operaciones de rescate.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Hackathon-ganador-1A1A1A?style=flat-square" />
-      <img src="https://img.shields.io/badge/Datos-1A1A1A?style=flat-square" />
-      <br /><br />
-      <a href="https://github.com/Ricardokraus">Ver en GitHub →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎙️ ATCAssistant</h3>
-      App de escritorio en Python que transcribe audio ATC para las redes IVAO / VATSIM.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=E9E4D6" />
-      <br /><br />
-      <a href="https://github.com/Ricardokraus">Ver en GitHub →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⌨️ NitroSenseRemap</h3>
-      Script de AutoHotkey v2 que reasigna la tecla NitroSense de los portátiles Acer.
-      <br /><br />
-      <img src="https://img.shields.io/badge/AutoHotkey-1A1A1A?style=flat-square&logo=autohotkey&logoColor=E9E4D6" />
-      <br /><br />
-      <a href="https://github.com/Ricardokraus">Ver en GitHub →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💡 Control Luz</h3>
-      App en Python para controlar bombillas inteligentes Yeelight.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=E9E4D6" />
-      <br /><br />
-      <a href="https://github.com/Ricardokraus">Ver en GitHub →</a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
 ## `> stats`
 
 <div align="center">
@@ -112,5 +72,5 @@
 <br />
 
 <div align="center">
-  <sub>hecho con ☕ desde Tenerife</sub>
+  <sub>Hecho con ☕ desde Tenerife</sub>
 </div>
