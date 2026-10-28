@@ -33,9 +33,6 @@ Desarrollador full stack y estudiante de Ingeniería Informática.<br />Me mueve
 <br />
 
 <div align="center">
-<details>
-<summary><sub>Hecho con ☕ desde Tenerife</sub></summary>
-<br />
-<img src="assets/egg-coffee.svg" alt="Recargando café" width="380" />
-</details>
+<sub>Hecho con ☕ desde Tenerife</sub>
+
 </div>
