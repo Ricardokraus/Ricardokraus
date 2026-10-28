@@ -1,11 +1,9 @@
 <div align="center">
 <img src="banner.svg" alt="Banner" width="100%" />
 <br /><br />
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="quote-dark.svg" />
-<img src="quote-light.svg" alt="Me mueve entender cómo funcionan las cosas por debajo y apoyarme en la IA para construirlas mejor." width="610" />
-</picture>
-<br /><br />
+<blockquote>
+<i>“Me mueve entender cómo funcionan las cosas por debajo.<br />Todavía estoy descubriendo qué es lo que más me apasiona de la informática, y sigo aprendiendo para encontrar mi camino.”</i>
+</blockquote>
 <a href="https://www.linkedin.com/in/ricardo-kraus/"><img src="linkedin.svg" alt="LinkedIn" height="37" /></a>
 <a href="https://github.com/Ricardokraus"><img src="github.svg" alt="GitHub" height="37" /></a>
 </div>
