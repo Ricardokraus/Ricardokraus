@@ -44,33 +44,6 @@ Desarrollador full stack con preferencia por el frontend y estudiante de Ingenie
 
 <br />
 
-## `> experiencia`
-
-| Cuándo | Dónde | Qué hice |
-| :--- | :--- | :--- |
-| 2026 · jul–sep | **STV · Servicio Técnico** | Sistema de atención al cliente automatizada por voz: arquitectura, integración con el gestor de tareas, colas y reintentos de llamadas, herramientas de prueba y documentación. |
-| 2026 · mar–may | **Univ. Papieska Jana Pawła II** (Cracovia, Erasmus+) | Sistema IAM sobre nAxiom: base de datos en SQL Server, triggers, workflow multi-nivel y lógica de formularios en JavaScript. |
-| 2026 · feb | **STV · Servicio Técnico** | Portal B2B: backend y sistemas de acceso seguro de usuarios (Node.js, React). |
-| 2025 · may–jun | **STV · Servicio Técnico** | Mantenimiento evolutivo de una aplicación web interna (PHP, SGBD) en equipo multidisciplinar. |
-| 2024 · abr–jun | **Aloe Consulting** | Soporte técnico, ensamblaje de equipos y despliegue de soluciones de ciberseguridad. |
-
-<br />
-
-## `> stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ricardokraus&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=E9E4D6&text_color=E9E4D6&icon_color=E9E4D6&count_private=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardokraus&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=E9E4D6&text_color=E9E4D6" alt="Lenguajes" />
-
-<br />
-
-<img src="https://ghchart.rshah.org/E9E4D6/Ricardokraus" alt="Contribuciones" width="95%" />
-
-</div>
-
-<br />
-
 <div align="center">
   <sub>Hecho con ☕ desde Tenerife</sub>
 </div>
