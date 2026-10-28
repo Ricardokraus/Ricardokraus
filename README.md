@@ -3,8 +3,8 @@
 <br /><br />
 Desarrollador full stack y estudiante de Ingeniería Informática.<br />Me mueve entender cómo funcionan las cosas por debajo y apoyarme en la IA para construirlas mejor.
 <br /><br />
-<a href="https://www.linkedin.com/in/ricardo-kraus/"><img src="linkedin.svg" alt="LinkedIn" height="44" /></a>
-<a href="https://github.com/Ricardokraus"><img src="github.svg" alt="GitHub" height="44" /></a>
+<a href="https://www.linkedin.com/in/ricardo-kraus/"><img src="linkedin.svg" alt="LinkedIn" height="47" /></a>
+<a href="https://github.com/Ricardokraus"><img src="github.svg" alt="GitHub" height="47" /></a>
 </div>
 <br />
 
@@ -33,5 +33,15 @@ Desarrollador full stack y estudiante de Ingeniería Informática.<br />Me mueve
 <br />
 
 <div align="center">
-<sub>Hecho con ☕ desde Tenerife</sub>
+<details>
+<summary><img src="assets/egg-key.svg" alt="Tecla NitroSense" height="47" /></summary>
+<br />
+<img src="assets/egg-numlock.svg" alt="NitroSense se convierte en Num Lock" width="380" />
+</details>
+<br />
+<details>
+<summary><sub>Hecho con ☕ desde Tenerife</sub></summary>
+<br />
+<img src="assets/egg-coffee.svg" alt="Recargando café" width="380" />
+</details>
 </div>
