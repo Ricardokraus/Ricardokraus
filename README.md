@@ -34,12 +34,6 @@ Desarrollador full stack y estudiante de Ingeniería Informática.<br />Me mueve
 
 <div align="center">
 <details>
-<summary><img src="assets/egg-key.svg" alt="Tecla NitroSense" height="47" /></summary>
-<br />
-<img src="assets/egg-numlock.svg" alt="NitroSense se convierte en Num Lock" width="380" />
-</details>
-<br />
-<details>
 <summary><sub>Hecho con ☕ desde Tenerife</sub></summary>
 <br />
 <img src="assets/egg-coffee.svg" alt="Recargando café" width="380" />
