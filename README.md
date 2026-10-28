@@ -2,7 +2,7 @@
 <img src="banner.svg" alt="Banner" width="100%" />
 <br /><br />
 <blockquote>
-<i>“Curioso de naturaleza, siempre con ganas de ver cómo funciona el mundo.<br />Todavía no sé qué parte de la informática me apasiona más, así que sigo aprendiendo para encontrarla.”</i>
+<i>“Curioso de naturaleza, siempre con ganas de ver cómo funciona el mundo.<br />Aún busco lo que más me apasiona, y mientras tanto sigo aprendiendo.”</i>
 </blockquote>
 <br />
 <a href="https://www.linkedin.com/in/ricardo-kraus/"><img src="linkedin.svg" alt="LinkedIn" height="37" /></a>
