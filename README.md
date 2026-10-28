@@ -3,10 +3,8 @@
 <br /><br />
 Desarrollador full stack y estudiante de Ingeniería Informática.<br />Me mueve entender cómo funcionan las cosas por debajo y apoyarme en la IA para construirlas mejor.
 <br /><br />
-<a href="https://www.linkedin.com/in/ricardo-kraus/"><img src="https://img.shields.io/badge/ricardo--kraus-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=E9E4D6" alt="LinkedIn" /></a>
-<a href="https://github.com/Ricardokraus"><img src="https://img.shields.io/badge/Ricardokraus-1A1A1A?style=for-the-badge&logo=github&logoColor=E9E4D6" alt="GitHub" /></a>
-<br /><br />
-<img src="https://komarev.com/ghpvc/?username=Ricardokraus&color=1A1A1A&style=for-the-badge&label=VISITAS" alt="Visitas" />
+<a href="https://www.linkedin.com/in/ricardo-kraus/"><img src="linkedin.svg" alt="LinkedIn" height="44" /></a>
+<a href="https://github.com/Ricardokraus"><img src="github.svg" alt="GitHub" height="44" /></a>
 </div>
 <br />
 
@@ -26,7 +24,7 @@ Desarrollador full stack y estudiante de Ingeniería Informática.<br />Me mueve
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,java,kotlin,python,php,postgres,androidstudio,git,linux&theme=dark&perline=6" alt="Stack" />
 <br /><br />
-<b>Otros</b>
+<b>Otros:</b>
 <br />
 <img src="https://img.shields.io/badge/SQL_Server-1A1A1A?style=flat-square&logo=microsoftsqlserver&logoColor=E9E4D6" />
 <img src="https://img.shields.io/badge/AutoHotkey-1A1A1A?style=flat-square&logo=autohotkey&logoColor=E9E4D6" />
