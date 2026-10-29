@@ -34,7 +34,7 @@
   <text x="60" y="145" class="sans fade2" font-size="58" font-weight="700" fill="#E9E4D6" letter-spacing="-1">Ricardo Kraus<tspan class="cursor" dx="8" font-weight="300" fill="#3fb950">|</tspan></text>
 
   <text x="60" y="185" class="mono fade3" font-size="17" letter-spacing="3"><tspan fill="#E9E4D6">SOFTWARE</tspan><tspan fill="#E9E4D6" fill-opacity="0.5" dx="14">·</tspan><tspan fill="#E9E4D6" dx="14">FULL STACK</tspan><tspan fill="#E9E4D6" fill-opacity="0.5" dx="14">·</tspan><tspan fill="#E9E4D6" dx="14">AI</tspan></text>
-  <text x="60" y="211" class="mono fade3" font-size="13" fill="#8b949e">Ingeniería Informática @ ULL  —  Tenerife, Canarias</text>
+  <text x="60" y="211" class="mono fade3" font-size="13" fill="#8b949e">Computer Engineering @ ULL  —  Tenerife, Canary Islands</text>
 
   <!-- color strip, like GitHub's language bar -->
   <g clip-path="url(#card)">

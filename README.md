@@ -2,22 +2,24 @@
 <img src="banner.svg" alt="Banner" width="100%" />
 <br /><br />
 <blockquote>
-<i>“Curioso de naturaleza, siempre con ganas de ver cómo funciona el mundo.<br />Aún busco lo que más me apasiona, y mientras tanto sigo aprendiendo.”</i>
+<i>“Naturally curious, always eager to see how the world works.<br />Still searching for what I'm most passionate about, and learning along the way.”</i>
 </blockquote>
 <br />
 <a href="https://www.linkedin.com/in/ricardo-kraus/"><img src="linkedin.svg" alt="LinkedIn" height="37" /></a>
-<a href="https://github.com/Ricardokraus"><img src="github.svg" alt="GitHub" height="37" /></a>
+<a href="https://github.com/Ricardokraus?tab=repositories"><img src="github.svg" alt="GitHub" height="37" /></a>
+<a href="https://ricardokraus.vercel.app/"><img src="website.svg" alt="Website (work in progress)" height="37" /></a>
+<a href="https://www.instagram.com/ricardookraus/"><img src="instagram.svg" alt="Instagram" height="37" /></a>
 </div>
 <br />
 
 ## `> about`
 
-- 🎓 **Ingeniería Informática** en la Universidad de La Laguna (ULL), tras terminar el CFGS en **DAM** en IES Canarias
-- 🏆 **Ganador del Ocean Hackathon® 2026** en Santa Cruz de Tenerife, clasificado para la final internacional en Brest 🇫🇷
-- 🌍 Prácticas **Erasmus+** en Cracovia 🇵🇱 desarrollando un sistema IAM
-- 🧩 Frontend y backend, bases de datos, integraciones y documentación de traspaso
-- 🛠️ Proyectos propios para automatizar cosas, desde scripts hasta una app de ATC para simulación de vuelo
-- 📍 Santa Cruz de Tenerife, Islas Canarias
+- 🎓 **Computer Engineering** at the University of La Laguna (ULL), after a higher vocational degree in **Multiplatform App Development (DAM)** at IES Canarias
+- 🏆 **Ocean Hackathon® 2026 winner** in Santa Cruz de Tenerife, qualified for the international final in Brest 🇫🇷
+- 🌍 **Erasmus+** internship in Kraków 🇵🇱 building an IAM system
+- 🧩 Frontend and backend, databases, integrations and handover documentation
+- 🛠️ Personal projects to automate things, from scripts to an ATC app for flight simulation
+- 📍 Santa Cruz de Tenerife, Canary Islands
 
 <br />
 
@@ -26,7 +28,7 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,java,kotlin,python,php,postgres,androidstudio,git,linux&theme=dark&perline=6" alt="Stack" />
 <br /><br />
-<b>Otros:</b>
+<b>Other:</b>
 <br />
 <img src="https://img.shields.io/badge/SQL_Server-1A1A1A?style=flat-square&logo=microsoftsqlserver&logoColor=E9E4D6" />
 <img src="https://img.shields.io/badge/AutoHotkey-1A1A1A?style=flat-square&logo=autohotkey&logoColor=E9E4D6" />
@@ -35,6 +37,6 @@
 <br />
 
 <div align="center">
-<sub>Hecho con ☕ desde Tenerife</sub>
+<sub>Made with ☕ in Tenerife</sub>
 
 </div>
