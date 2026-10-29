@@ -5,9 +5,9 @@
 <i>“Naturally curious, always eager to see how the world works.<br />Still searching for what I'm most passionate about, and learning along the way.”</i>
 </blockquote>
 <br />
-<a href="https://www.linkedin.com/in/ricardo-kraus/"><img src="linkedin.svg" alt="LinkedIn" height="37" /></a>
-<a href="https://github.com/Ricardokraus?tab=repositories"><img src="github.svg" alt="GitHub" height="37" /></a>
 <a href="https://ricardokraus.vercel.app/"><img src="website.svg" alt="Website (work in progress)" height="37" /></a>
+<a href="https://github.com/Ricardokraus?tab=repositories"><img src="github.svg" alt="GitHub" height="37" /></a>
+<a href="https://www.linkedin.com/in/ricardo-kraus/"><img src="linkedin.svg" alt="LinkedIn" height="37" /></a>
 <a href="https://www.instagram.com/ricardookraus/"><img src="instagram.svg" alt="Instagram" height="37" /></a>
 </div>
 <br />
