@@ -37,6 +37,6 @@
 <br />
 
 <div align="center">
-<sub>Made with ☕ in Tenerife</sub>
+<sub>Made with ❤️ in Tenerife</sub>
 
 </div>
